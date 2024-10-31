@@ -83,7 +83,8 @@ header {
   
 }
 .card {
-  margin: 10px 60px;
+  margin: 50px 60px;
+  /* display: flex; */
 }
 
 
